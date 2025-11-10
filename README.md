@@ -4,7 +4,7 @@
 
 
 
-## 💫 About Me
+## 💫 About me
 I'm a **Fullstack Developer** and  Learner based in Kigali, Rwanda. I love turning challenges into solutions and enjoy every bit of learning that comes with the journey.
 
 ## 🚀 Tech Stack
